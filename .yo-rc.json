@@ -43,6 +43,8 @@
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
     "languages": ["en", "tr"],
-    "cypressCoverage": false
+    "cypressCoverage": false,
+    "entities": ["Blog", "Post", "Tag"],
+    "lastLiquibaseTimestamp": 1628969545000
   }
 }
